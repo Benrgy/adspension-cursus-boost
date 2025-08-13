@@ -24,17 +24,6 @@ export default {
 				ring: 'hsl(var(--ring))',
 				background: 'hsl(var(--background))',
 				foreground: 'hsl(var(--foreground))',
-				// Brand colors for Adspension
-				'brand-orange': {
-					DEFAULT: 'hsl(var(--brand-orange))',
-					light: 'hsl(var(--brand-orange-light))',
-					dark: 'hsl(var(--brand-orange-dark))'
-				},
-				'brand-green': {
-					DEFAULT: 'hsl(var(--brand-green))',
-					light: 'hsl(var(--brand-green-light))',
-					dark: 'hsl(var(--brand-green-dark))'
-				},
 				primary: {
 					DEFAULT: 'hsl(var(--primary))',
 					foreground: 'hsl(var(--primary-foreground))'
