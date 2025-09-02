@@ -1,0 +1,7 @@
+# SPA fallback for Netlify
+/*    /index.html   200
+
+# Specific routes with proper status codes
+/contact /index.html 200
+/privacy /index.html 200
+/algemene-voorwaarden /index.html 200
